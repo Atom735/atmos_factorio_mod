@@ -1,0 +1,22 @@
+# atmos_factorio_mod
+
+Учебный мод на базе [Eradicator's Hand Crank Generator](https://github.com/lossycrypt/eradicators-hand-crank-generator) для разработки под **Factorio 2.0 + Space Age**.
+
+## Рядом в `C:\gist`
+
+| Путь | Назначение |
+|------|------------|
+| `atmos_factorio_mod/` | Этот репозиторий (исходники мода) |
+| `factorio-data/` | Официальные прототипы Wube, sparse-checkout `space-age/` |
+
+## Factorio
+
+Мод подключён junction-ссылкой:
+
+`%APPDATA%\Factorio\mods\atmos_factorio_mod` → `C:\gist\atmos_factorio_mod`
+
+В игре включите **Space Age** и этот мод в списке модов.
+
+## Лицензия исходника
+
+Исходный HCG — public domain ([The Unlicense](http://unlicense.org/)). См. `licence.txt`.
