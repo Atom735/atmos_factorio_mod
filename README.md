@@ -2,7 +2,7 @@
 
 Учебный мод на базе [Eradicator's Hand Crank Generator](https://github.com/lossycrypt/eradicators-hand-crank-generator) для разработки под **Factorio 2.0 + Space Age**.
 
-## Рядом в `C:\gist`
+## Рядом в `C:\gits`
 
 | Путь | Назначение |
 |------|------------|
@@ -13,7 +13,7 @@
 
 Мод подключён junction-ссылкой:
 
-`%APPDATA%\Factorio\mods\atmos_factorio_mod_0.1.0` → `C:\gist\atmos_factorio_mod`
+`%APPDATA%\Factorio\mods\atmos_factorio_mod_0.1.0` → `C:\gits\atmos_factorio_mod`
 
 Имя junction должно совпадать с `name` и `version` из `info.json` (формат `имя_версия`).
 
