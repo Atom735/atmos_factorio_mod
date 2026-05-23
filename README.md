@@ -13,7 +13,9 @@
 
 Мод подключён junction-ссылкой:
 
-`%APPDATA%\Factorio\mods\atmos_factorio_mod` → `C:\gist\atmos_factorio_mod`
+`%APPDATA%\Factorio\mods\atmos_factorio_mod_0.1.0` → `C:\gist\atmos_factorio_mod`
+
+Имя junction должно совпадать с `name` и `version` из `info.json` (формат `имя_версия`).
 
 В игре включите **Space Age** и этот мод в списке модов.
 
